@@ -5,10 +5,10 @@ Hack Challenge 2021 IOS repo for "The Fun Class", an app where you can input you
 https://github.com/jjjxu/AppDevBackend
 
 ## Screenshots
-![alt text](https://github.coecis.cornell.edu/lls96/The-Fun-Class-IOS/blob/main/homePage.png?)
-![alt text](https://github.coecis.cornell.edu/lls96/The-Fun-Class-IOS/blob/main/Interests.png?)
-![alt text](https://github.coecis.cornell.edu/lls96/The-Fun-Class-IOS/blob/main/ClassResults.png?)
-![alt text](https://github.coecis.cornell.edu/lls96/The-Fun-Class-IOS/blob/main/ClassSpec.png?)
+![alt text](https://github.com/lls96/TheFunClass_IOS_Hackathon2021/blob/main/homePage.png?)
+![alt text](https://github.com/lls96/TheFunClass_IOS_Hackathon2021/blob/main/Interests.png?)
+![alt text](https://github.com/lls96/TheFunClass_IOS_Hackathon2021/blob/main/ClassResults.png?)
+![alt text](https://github.com/lls96/TheFunClass_IOS_Hackathon2021/blob/main/ClassSpec.png?)
 
 ## Short Description of App and Features
 The Fun Class is an app that allows students to find classes that they would like to enroll in as their “fun”, and non-major or required course based on their interests, the class’s workload, the class’s difficulty, or by simply browsing historically popular courses across a wide range of disciplines.
